@@ -1,5 +1,6 @@
 title: Domains
 description: Use this section to define Domains settings.
+addedTestDescriptionFeatureBranch: 'A test description added on feature branch'
 payload:
   payloadtype: com.apple.domains
   supportedOS:
