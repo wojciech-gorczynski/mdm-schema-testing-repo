@@ -1,6 +1,6 @@
 title: Dock
 description: ''
-testDescription: 'An initial test description on main branch'
+testDescription: 'A second test description on main branch'
 payload:
   payloadtype: com.apple.dock
   supportedOS:
