@@ -1,6 +1,6 @@
 title: Domains
 description: Use this section to define Domains settings.
-addedTestDescription: 'A test description'
+addedTestDescription: 'A test description on main branch v.3'
 payload:
   payloadtype: com.apple.domains
   supportedOS:
