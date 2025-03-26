@@ -1,4 +1,5 @@
 title: App Lock
+newTitle: new title on main
 description: App Lock (Supervised Only)
 payload:
   payloadtype: com.apple.app.lock
