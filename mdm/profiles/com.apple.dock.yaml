@@ -1,6 +1,7 @@
 title: Dock
 description: ''
 testDescription: 'A second test description on main branch'
+mainBranchProperty: Property added to dock payload on main branch
 payload:
   payloadtype: com.apple.dock
   supportedOS:
