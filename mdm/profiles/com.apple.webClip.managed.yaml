@@ -1,4 +1,5 @@
 title: Web Clip
+newTitle: newTitle on main
 description: Use this section to define web clips
 payload:
   payloadtype: com.apple.webClip.managed
