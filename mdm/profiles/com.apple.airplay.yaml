@@ -1,4 +1,5 @@
 title: AirPlay
+betaBranchTestDescription: a test description on beta branch
 description: AirPlay settings
 payload:
   payloadtype: com.apple.airplay
