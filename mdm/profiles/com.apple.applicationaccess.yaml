@@ -1,6 +1,5 @@
 title: Restrictions
 description: Use this section to define restrictions settings
-testDescription: This is a test description added on main branch
 payload:
   payloadtype: com.apple.applicationaccess
   supportedOS:
