@@ -1,4 +1,5 @@
 title: Domains
+addedProperty: property added on the feature branch
 description: Use this section to define Domains settings.
 payload:
   payloadtype: com.apple.domains
